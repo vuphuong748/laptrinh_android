@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">B2004748_MyMap</string>
+    <string name="title_activity_create_maps">CreateMapsActivity</string>
+    <string name="title_activity_display_maps">DisplayMapsActivity</string>
+</resources>

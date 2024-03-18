@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">B2004748_Buoi4</string>
+
+    <string name="login">Đăng nhập</string>
+    <string name="username">Mã số sinh viên</string>
+    <string name="no_account">Bạn chưa có tài khoản?</string>
+    <string name="register">Đăng ký</string>
+    <string name="have_account">Bạn đã có tài khoản</string>
+    <string name="upload_avatar">Cập nhật ảnh đại diện</string>
+    <string name="choose_avt">Chọn ảnh đại diện</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="i_wish">Tôi ước ...</string>
+</resources>
